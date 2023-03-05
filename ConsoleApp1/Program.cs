@@ -26,7 +26,5 @@ class Program
         {
             Console.WriteLine(employee);
         }
-
-        //Console.ReadLine();
     }
 }
